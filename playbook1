@@ -2,8 +2,8 @@
 - name : install tomcat
   hosts : all
   tasks:
-   - name : install tomcat
+   - name : install bomcat
      apt :
       name : tomcat
-      state : present
+      state : presen
 
