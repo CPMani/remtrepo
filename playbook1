@@ -1,0 +1,9 @@
+---
+- name : install tomcat
+  hosts : all
+  tasks:
+   - name : install tomcat
+     apt :
+      name : tomcat
+      state : present
+
