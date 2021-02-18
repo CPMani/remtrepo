@@ -1,3 +1,7 @@
 a = echo ravana | awk { print $2}
 echo $a
+vsd gdg d
+x gdghd hf
+g dsr
+z ggd
 
